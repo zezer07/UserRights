@@ -1,0 +1,66 @@
+.Design{
+
+    border: 5px solid;
+    width: 33%;
+    height: 33%;
+    background-color: cornflowerblue;
+    margin: auto;
+    margin-bottom: 33px;
+    
+    
+}
+
+.HeaderCenter{
+
+    text-align: center;
+}
+
+.DesignFilm{
+
+    border: 5px solid;
+    width: 33%;
+    height: 33%;
+    background-color: rgb(216, 237, 100);
+    margin: auto;
+    margin-bottom: 33px;
+    
+
+}
+
+.DesignFind{
+    margin-right: 50px;
+}
+
+
+.DesignSubscriptions{
+
+    border: 5px solid;
+    width: 33%;
+    height: 33%;
+    background-color:rosybrown;
+    margin: auto;
+    margin-bottom: 33px;
+
+}
+ 
+.DesignSubscription{
+
+    border: 5px solid;
+    width: 80%;
+    height: 33%;
+    background-color: white;
+    margin: auto;
+    margin-bottom: 33px;
+
+}
+
+.DesignMovieWatched{
+
+    border: 5px solid;
+    width: 80%;
+    height: 33%;
+    background-color:rosybrown;
+    margin: auto;
+    margin-bottom: 33px;
+
+}
