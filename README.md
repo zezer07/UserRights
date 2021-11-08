@@ -8,7 +8,7 @@ The system admin can also work on the employees - set pemissions, add new employ
 
 Technologies:
 
--Client side using React Hooks, functional components, axios, SPA routing.
+-Client side using React Hooks, functional components, SPA routing.
 
 -Server Side using firesbase.
 
