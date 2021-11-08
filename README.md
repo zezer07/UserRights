@@ -1,4 +1,4 @@
-#Cinema-Management-System-
+Cinema-Management-System-
 
 Web Application for Cinema Clients and Subscriptions Management .
 
